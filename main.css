@@ -1,0 +1,40 @@
+#semaforo{
+    background-color: yellow;
+    width: 70px;
+    height: 230px;
+    margin: auto auto;
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+}
+
+#rojo{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#anaranjado{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+#verde{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
